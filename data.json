@@ -1,0 +1,48 @@
+[
+  {
+    "order_id": "O1001",
+    "customer": "Rahul Mehta",
+    "city": "Mumbai",
+    "date": "2025-07-10",
+    "items": [
+      {"product": "Laptop", "price": 55000, "quantity": 1},
+      {"product": "Mouse", "price": 500, "quantity": 2}
+    ],
+    "payment_method": "Credit Card",
+    "total_amount": 56000
+  },
+  {
+    "order_id": "O1002",
+    "customer": "Priya Sharma",
+    "city": "Delhi",
+    "date": "2025-07-11",
+    "items": [
+      {"product": "Smartphone", "price": 20000, "quantity": 1}
+    ],
+    "payment_method": "UPI",
+    "total_amount": 20000
+  },
+  {
+    "order_id": "O1003",
+    "customer": "Siddhartha H",
+    "city": "Bengaluru",
+    "date": "2025-07-12",
+    "items": [
+      {"product": "Headphones", "price": 3000, "quantity": 2},
+      {"product": "Keyboard", "price": 1500, "quantity": 1}
+    ],
+    "payment_method": "Debit Card",
+    "total_amount": 7500
+  },
+  {
+    "order_id": "O1004",
+    "customer": "Neha Verma",
+    "city": "Chennai",
+    "date": "2025-07-13",
+    "items": [
+      {"product": "Air Conditioner", "price": 35000, "quantity": 1}
+    ],
+    "payment_method": "Net Banking",
+    "total_amount": 35000
+  }
+]
